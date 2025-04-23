@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+# UberEat
+=======
+>>>>>>> Stashed changes
 # vue3-uber
 
 ## Project setup
@@ -22,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+<<<<<<< Updated upstream
+=======
+>>>>>>> 0769857 (init)
+>>>>>>> Stashed changes

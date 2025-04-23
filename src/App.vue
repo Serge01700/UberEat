@@ -16,4 +16,5 @@ import HomePage from './page/homePage.vue'
   padding: 20px;
 }
 
+
 </style>
