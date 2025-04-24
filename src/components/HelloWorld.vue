@@ -1,13 +1,11 @@
 <template>
   <div class="hello">
-    
+
   </div>
 </template>
 
-<script>
-
+<script setup>
 </script>
-
 
 <style scoped>
 h3 {
